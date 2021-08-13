@@ -1,6 +1,7 @@
 # Project: big tech lobby
 
-This is a project for Lede week 10.  
+This is a project for Lede week 10. 
+
 Through web scraping of [US Senate lobbying disclosure](https://lda.senate.gov/filings/public/filing/search/), I analyzed lobbying trend of tech giants.
 The link to the story is [here](https://hiromisa.github.io/final_project/).
 
